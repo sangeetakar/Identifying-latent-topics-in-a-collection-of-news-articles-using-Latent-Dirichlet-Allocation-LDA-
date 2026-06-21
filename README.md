@@ -2,7 +2,7 @@
 
 ---
 
-# 📁 2. News Topic Modeling using LDA (NLP)
+News Topic Modeling using LDA (NLP)
 
 ```markdown
 # News Topic Modeling using LDA (Latent Dirichlet Allocation)
